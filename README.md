@@ -97,13 +97,18 @@ Logic First
 
 ---
 
-## Contribution Activity
+## Contribution Timeline
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=habib-x-tech&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=habib-x-tech&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/raw/master/animated.svg" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=habib-x-tech&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=habib-x-tech&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=habib-x-tech&theme=tokyonight&utcOffset=5.5" />
 </p>
 
 ---
@@ -117,19 +122,6 @@ Logic First
 
 <p align="center">
   <b>Progress is quiet. Results are loud.</b>
-</p>
-
----
-
-## Learning Progress
-<p align="center">
-  <img src="https://progress-bar.dev/70/?title=DSA%20in%20C++&width=300" />
-</p>
-<p align="center">
-  <img src="https://progress-bar.dev/55/?title=AI%20%26%20ML&width=300" />
-</p>
-<p align="center">
-  <img src="https://progress-bar.dev/40/?title=Web%20Development&width=300" />
 </p>
 
 ---
