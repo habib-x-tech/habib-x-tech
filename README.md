@@ -1,26 +1,31 @@
-<!-- ===== PREMIUM NAME HEADER ===== -->
+<!-- ===== PREMIUM HEADER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=MD%20HABIB%20ALAM&height=90&fontSize=55&fontAlignY=35&desc=AI%20%7C%20DSA%20%7C%20Engineering%20Journey&descAlignY=60&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=120&section=header&text=MD%20HABIB%20ALAM&fontSize=44&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=DSA+in+C%2B%2B+Daily;AI%2FML+Engineer+in+Progress;Building+Skills+Step+by+Step;Consistency+Over+Everything&center=true&width=560&height=45">
+  <b>AI / ML Engineer in Progress</b> • <b>DSA in C++</b> • <b>Problem Solver</b>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Grinding+DSA+Daily+in+C%2B%2B;Building+Strong+AI+Foundations;Focused+on+Long-Term+Growth;Consistency+Over+Shortcuts&center=true&width=620&height=40">
 </p>
 
 ---
 
-## 👋 About Me
-I am a **B.Tech CSE (Artificial Intelligence)** student focused on building strong fundamentals in computer science and artificial intelligence.  
-My current priorities are:
-- 💀 Solving **DSA problems daily using C++**
-- 🤖 Learning **AI / Machine Learning** step by step
-- 💻 Writing clean, understandable, and scalable code
+## About Me
+I am a **B.Tech CSE (Artificial Intelligence)** student focused on building strong fundamentals in computer science and artificial intelligence.
 
-I strongly believe in **discipline, consistency, and long-term growth**.
+My current priorities include:
+- Solving **DSA problems daily using C++**
+- Learning **AI / Machine Learning** step by step
+- Writing **clean, readable, and scalable code**
+
+I believe in building skills quietly and letting results speak.
 
 ---
 
-## 🛠 Skills & Tools
+## Skills & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,html,css,java,python,sql,git,github,linux,vscode,canva&theme=dark" />
 </p>
@@ -31,22 +36,22 @@ I strongly believe in **discipline, consistency, and long-term growth**.
 
 ---
 
-## 💀 DSA in C++ — LeetCode Progress (Real)
+## DSA in C++ — LeetCode Progress (Real)
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/habib_x_tech?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
 </p>
 
 <p align="center">
-  🔗 <a href="https://leetcode.com/u/habib_x_tech/" target="_blank"><b>View my LeetCode Profile</b></a>
+  <a href="https://leetcode.com/u/habib_x_tech/" target="_blank"><b>View my LeetCode Profile</b></a>
 </p>
 
 <p align="center">
-  🧠 Actively solving problems in <b>C++</b> with focus on patterns, logic, and problem-solving skills.
+  Actively solving problems in <b>C++</b> with focus on patterns, logic, and problem-solving skills.
 </p>
 
 ---
 
-## 📊 GitHub Performance
+## GitHub Performance
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=habib-x-tech&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
@@ -57,21 +62,36 @@ I strongly believe in **discipline, consistency, and long-term growth**.
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=habib-x-tech&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-## 🚀 Projects
-- ❤️ **Heart Disease Prediction using Machine Learning**
-- 💀 **DSA Practice in C++ (LeetCode-based)**
-- 🌐 **Web & AI Projects (In Progress)**
+## Why I Stand Out
+- I focus on fundamentals, not shortcuts  
+- I practice DSA consistently using C++  
+- I value clear logic over memorized solutions  
+- I am building AI skills with long-term intent  
+- I compete only with who I was yesterday  
+
+<p align="center">
+  <b>Progress is quiet. Results are loud.</b>
+</p>
 
 ---
 
-## 🔗 Connect With Me
+## Projects
+- Heart Disease Prediction using Machine Learning  
+- DSA Practice in C++ (LeetCode-based)  
+- Web & AI projects (in progress)
+
+> Currently investing time in skills that compound with consistency.
+
+---
+
+## Connect With Me
 <p align="center">
   <a href="https://github.com/habib-x-tech">
     <img src="https://img.shields.io/badge/GitHub-black?logo=github">
@@ -84,5 +104,5 @@ I strongly believe in **discipline, consistency, and long-term growth**.
 ---
 
 <p align="center">
-  💬 <i>"Discipline beats motivation when motivation fades."</i>
+  <i>"Discipline outlasts motivation."</i>
 </p>
