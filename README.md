@@ -6,7 +6,7 @@
 <h2 align="center">B.Tech CSE (AI) | Building Future in AI & ML 🤖</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=AI%2FML+Engineer+in+Progress;Python+%7C+Machine+Learning;Open+Source+Enthusiast;Learning+Every+Day&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=AI%2FML+Engineer+in+Progress;Python+%7C+Java+%7C+SQL;Web+%26+ML+Learner;Open+Source+Enthusiast&center=true&width=500&height=45">
 </p>
 
 ---
@@ -14,34 +14,33 @@
 ## 👋 About Me
 - 🎓 **B.Tech CSE (Artificial Intelligence)**
 - 🤖 Aspiring **AI / ML Engineer**
-- 🐍 Strong in **Python & Machine Learning**
-- 🚀 Love building **real-world ML projects**
-- 📈 Currently improving **DSA + ML + SQL**
+- 💻 Interested in **Web + AI/ML Development**
+- 🚀 Love building **real-world projects**
+- 📈 Currently improving **DSA, SQL & ML**
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Skills & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,sql,git,github,linux,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,html,css,java,python,sql,git,github,linux,vscode,canva&theme=dark" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=habib-x-tech&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=habib-x-tech&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habib-x-tech&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habib-x-tech&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 - ❤️ **Heart Disease Prediction using Machine Learning**
-- 📊 **ML Salary Prediction System**
-- 🧠 **AI Automation Projects (Upcoming)**
+- 🧠 **More AI/ML & Web Projects Coming Soon**
 
 ---
 
@@ -50,7 +49,7 @@
   <a href="https://github.com/habib-x-tech">
     <img src="https://img.shields.io/badge/GitHub-black?logo=github">
   </a>
-  <a href="#">
+  <a href="https://www.linkedin.com/in/md-habib-alam-2a86512b7">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin">
   </a>
 </p>
@@ -65,7 +64,7 @@
 ---
 
 <p align="center">
-  💡 <i>"Learning never stops. Building the future with AI."</i>
+  💡 <i>"Consistency beats talent when talent doesn’t work consistently."</i>
 </p>
 
 <p align="center">
