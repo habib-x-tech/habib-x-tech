@@ -23,11 +23,11 @@ My current priorities include:
 
 > I believe in building skills quietly and letting results speak.
 
----
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216656947-4c7b7a9b-8b3b-4e6b-9e1f-9e3c0a5c7d3b.gif" width="60%" />
+  <img src="https://user-images.githubusercontent.com/74038190/216656980-47f6b07c-6f7b-4ef5-8c4b-2c5bba8d6e58.gif" width="65%" />
 </p>
+
+---
 
 ## Skills & Tools
 <p align="center">
@@ -36,6 +36,10 @@ My current priorities include:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,seaborn&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216656991-9f3b3e51-9b7c-4bb1-8d75-9a6a64b7b9f6.gif" width="420"/>
 </p>
 
 ---
@@ -61,9 +65,13 @@ Logic First
 </tr>
 </table>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216656980-47f6b07c-6f7b-4ef5-8c4b-2c5bba8d6e58.gif" width="65%" />
+</p>
+
 ---
 
-## DSA in C++ — LeetCode Progress (Real)
+## DSA in C++ — LeetCode Progress
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/habib_x_tech?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
 </p>
@@ -92,6 +100,10 @@ Logic First
 ## Contribution Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=habib-x-tech&theme=tokyo-night&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/raw/master/animated.svg" />
 </p>
 
 ---
