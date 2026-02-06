@@ -1,4 +1,4 @@
-<!-- ===== PREMIUM HEADER ===== -->
+<!-- ===== HEADER ===== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=120&section=header&text=MD%20HABIB%20ALAM&fontSize=44&fontColor=ffffff&animation=fadeIn" />
 </p>
@@ -21,9 +21,13 @@ My current priorities include:
 - Learning **AI / Machine Learning** step by step
 - Writing **clean, readable, and scalable code**
 
-I believe in building skills quietly and letting results speak.
+> I believe in building skills quietly and letting results speak.
 
 ---
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216656947-4c7b7a9b-8b3b-4e6b-9e1f-9e3c0a5c7d3b.gif" width="60%" />
+</p>
 
 ## Skills & Tools
 <p align="center">
@@ -33,6 +37,29 @@ I believe in building skills quietly and letting results speak.
 <p align="center">
   <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,seaborn&theme=dark" />
 </p>
+
+---
+
+## Core Focus Areas
+<table align="center">
+<tr>
+<td align="center" width="33%">
+<b>DSA in C++</b><br>
+Problem Solving<br>
+Daily Practice
+</td>
+<td align="center" width="33%">
+<b>AI / ML</b><br>
+Foundations<br>
+Model Thinking
+</td>
+<td align="center" width="33%">
+<b>Web Basics</b><br>
+HTML • CSS<br>
+Logic First
+</td>
+</tr>
+</table>
 
 ---
 
@@ -82,6 +109,19 @@ I believe in building skills quietly and letting results speak.
 
 ---
 
+## Learning Progress
+<p align="center">
+  <img src="https://progress-bar.dev/70/?title=DSA%20in%20C++&width=300" />
+</p>
+<p align="center">
+  <img src="https://progress-bar.dev/55/?title=AI%20%26%20ML&width=300" />
+</p>
+<p align="center">
+  <img src="https://progress-bar.dev/40/?title=Web%20Development&width=300" />
+</p>
+
+---
+
 ## Projects
 - Heart Disease Prediction using Machine Learning  
 - DSA Practice in C++ (LeetCode-based)  
@@ -105,4 +145,8 @@ I believe in building skills quietly and letting results speak.
 
 <p align="center">
   <i>"Discipline outlasts motivation."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:243B55,100:141E30&height=80&section=footer&text=Learning%20.%20Building%20.%20Improving&fontSize=18&fontColor=ffffff" />
 </p>
